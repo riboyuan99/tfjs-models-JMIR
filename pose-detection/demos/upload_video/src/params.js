@@ -30,7 +30,7 @@ export const BLAZEPOSE_CONFIG = {
   scoreThreshold: 0.65
 };
 export const POSENET_CONFIG = {
-  maxPoses: 1,
+  maxPoses: 5,
   scoreThreshold: 0.5
 };
 export const MOVENET_CONFIG = {
